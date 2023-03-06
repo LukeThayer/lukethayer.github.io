@@ -21,10 +21,10 @@ categories: jekyll update
 ### Monday
 
   ***Today's Workout***
-    - repeaters
-    - pushups
-    - jumping squats
-    - core
+  - repeaters
+  - pushups
+  - jumping squats
+  - core
   
   **How strong do I feel today**
 
