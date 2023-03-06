@@ -8,23 +8,26 @@ categories: jekyll update
 
 ## Week of 5/04/2023
  
- 2x repeaters
- 2x Pyrimids
- 1x board 10
- 2x continuity
- 2x other
- 2x lock-off/pull
- 3x tension/core
- 2x mobility
+ - 2x repeaters
+ - 2x Pyrimids
+ - 1x board 10
+ - 2x continuity
+ - 2x other
+ - 2x lock-off/pull
+ - 3x tension/core
+ - 2x mobility
 
 
 ### Monday
 
   ***Today's Workout***
-  - repeaters
-  - pushups
-  - jumping squats
-  - core
+  - repeaters      
+    - 6x5
+  - pushups        
+    - 4x20
+  - jumping squats 
+    - 4x20
+  - core    
   
   **How strong do I feel today**
 
@@ -54,10 +57,14 @@ categories: jekyll update
 ### Wedsneday 
 
   ***Today's Workout***
-  - lock-off/pull
+  - lock-off/pull     
+    - 5x4 uneven pull ups both sides
+    - 3x10 pull ups
   - core tension
   - pushups
+    - 4x20
   - jumping squats
+    - 4x20
   
   **How strong do I feel today**
 
@@ -71,6 +78,7 @@ categories: jekyll update
 
   ***Today's Workout***
   - Repeaters
+    - 6x5
   - mobility
   
   **How strong do I feel today**
@@ -88,6 +96,7 @@ categories: jekyll update
   - continuity
   - core/tension
   - rows
+    - 4x20
   
   **How strong do I feel today**
 
@@ -103,8 +112,12 @@ categories: jekyll update
   ***Today's Workout***
   - Pyrimids
   - push ups
+    - 4x20
   - jumping squats
+    - 4x20
   - lock-off/pull
+    - 5x4 uneven pull ups both arms
+    - 3x10 pull ups
   
   **How strong do I feel today**
 
