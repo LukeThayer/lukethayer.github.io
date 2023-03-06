@@ -7,7 +7,9 @@ permalink: /Phase 1/
 
 # Phase 1: Conditioning 
   
-  ## Weekly Exercises:
+## Weekly Exercises:
+
+
      - Repeaters
         - 7 seconds on 3 seconds off x6 
         - 3 mins rest, choose new hold
