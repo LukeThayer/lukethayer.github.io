@@ -30,20 +30,20 @@ categories: jekyll update
   - core    
   
   **How strong do I feel today**
-  5 
+5 
 
   **Workout quality**
-  3
+3
 
   **How tired am I**
-  I was hungover from wine night
+I was hungover from wine night
 
   **notes**
   The core workout needs to be toned back
     - only completed dish crunches and hollow body crunches.
 
   repeaters
-    - only completed 3 full sets, fingers started to open. transitioned to jugs to finish the workout
+  - only completed 3 full sets, fingers started to open. transitioned to jugs to finish the workout
 
 ### Tuesday
 
