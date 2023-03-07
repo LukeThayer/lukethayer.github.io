@@ -39,10 +39,10 @@ categories: jekyll update
 I was hungover from wine night
 
   **notes**
-  The core workout needs to be toned back
-    - only completed dish crunches and hollow body crunches.
+The core workout needs to be toned back
+  - only completed dish crunches and hollow body crunches.
 
-  repeaters
+repeaters
   - only completed 3 full sets, fingers started to open. transitioned to jugs to finish the workout
 
 ### Tuesday
@@ -60,7 +60,6 @@ I was hungover from wine night
 
   **How tired am I**
 
-  **what did i eat today?**
 
 ### Wedsneday 
 
@@ -80,7 +79,6 @@ I was hungover from wine night
 
   **How tired am I**
 
-  **what did i eat today?**
 
 ### Thursday
 
@@ -95,7 +93,6 @@ I was hungover from wine night
 
   **How tired am I**
 
-  **what did i eat today?**
 
 ### Friday
 
@@ -112,7 +109,6 @@ I was hungover from wine night
 
   **How tired am I**
 
-  **what did i eat today?**
 
 
 ### Saturday
@@ -133,7 +129,6 @@ I was hungover from wine night
 
   **How tired am I**
 
-  **what did i eat today?**
 
 ### Sunday
 
@@ -146,4 +141,3 @@ I was hungover from wine night
 
   **How tired am I**
 
-  **what did i eat today?**
