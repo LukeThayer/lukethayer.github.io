@@ -48,31 +48,31 @@ repeaters
 ### Tuesday
 
   ***Today's Workout***
-  - Pyrimids
   - Continuity
   - mobility
-
-
   
   **How strong do I feel today**
+  3
 
   **Workout quality**
+  5
 
   **How tired am I**
+  felt pretty tired due to previous nights workout
+
+  **notes**
+   removing 2 sets of pyrimdids a week, it is too hard to finish after doing repeaters the night before.
 
 
 ### Wedsneday 
 
   ***Today's Workout***
+  - Pyrimids
   - lock-off/pull     
     - 5x4 uneven pull ups both sides
     - 3x10 pull ups
   - core tension
-  - pushups
-    - 4x20
-  - jumping squats
-    - 4x20
-  
+
   **How strong do I feel today**
 
   **Workout quality**
@@ -83,8 +83,11 @@ repeaters
 ### Thursday
 
   ***Today's Workout***
-  - Repeaters
-    - 6x5
+  - pushups 
+    - 4x20
+  - jumping squats
+    - 4x20
+
   - mobility
   
   **How strong do I feel today**
@@ -114,7 +117,7 @@ repeaters
 ### Saturday
 
   ***Today's Workout***
-  - Pyrimids
+  - Repeaters
   - push ups
     - 4x20
   - jumping squats
